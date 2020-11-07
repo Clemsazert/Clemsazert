@@ -6,10 +6,14 @@
 - 🏆 End of 2020 Goals: Deploy my own K8s cluster with complete CI/CD pipeline and release a game for Github Game Off 👾
 - 🎥 I also love shooting and producing video content for my friends and family. Check out the [students union][hyris] I was in!
 
-### Connect with me:
+### Find me on social networks:
 
 [<img align="left" alt="clemdidom | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="clemdidom | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
+<!--START_SECTION:activity-->
 
 <br />
 
@@ -32,6 +36,14 @@
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="GCP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />
 <img align="left" alt="GCP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+
+---
+
+<img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Clemsazert&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
+
+---
+
+<img align="left" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clemsazert&layout=compact" />
 
 <br />
 <br />
