@@ -37,15 +37,18 @@
 <img align="left" alt="GCP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />
 <img align="left" alt="GCP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
 
+<br />
 ---
+<br />
 
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=Clemsazert&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 
+<br />
 ---
+<br />
 
 <img align="left" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clemsazert&layout=compact" />
 
-<br />
 <br />
 
 
