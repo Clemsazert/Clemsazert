@@ -1,9 +1,9 @@
 ### Hello there, my name is Clément 🤗
 
-## I'm an French engineering student finishing my last year at school (CentraleSupélec, Paris).
+## I'm an French enginerr who just graduated from CentraleSupélec, Paris (Major in IT Architecture).
 
-- 🌱 I’m currently learning Kubernetes for devOps purposes and Unity on my spare time.
-- 🏆 End of 2020 Goals: Deploy my own K8s cluster with complete CI/CD pipeline and release a game for Github Game Off 👾
+- 🌱 I’m currently learning Kubernetes for devOps purposes.
+- 🏆 End of 2021 Goals: rewrite the backend of my app in Go and get my AWS and GCP certifications.
 - 🎥 I also love shooting and producing video content for my friends and family. Check out the [students union][hyris] I was in!
 
 ### Find me on social networks:
