@@ -1,9 +1,9 @@
 ### Hello there, my name is Clément 🤗
 
-## I'm an French engineer who graduated last year from CentraleSupélec, Paris (Major in IT Architecture).
+## I'm an French Software Engineer. I graduated two years ago from CentraleSupélec, Paris (Major in IT Architecture) and I work in a govtech startup.
 
-- 🌱 I’m currently learning Remix and GCP (maybe get a certification soon if I have the time for!)
-- 🏆 End of 2022 Goals: continue developing my Go game and release an alpha version.
+- 🌱 I’m currently learning Remix and game dev.
+- 🏆 End of 2023 Goals: continue developing my Go game and release an alpha version.
 - 🎥 I also love shooting and producing video content for my friends and family. Check out the [students union][hyris] I was in!
 
 ### Find me on social networks:
@@ -33,9 +33,10 @@
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt=">Golang" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
 <img align="left" alt="GCP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecloud.svg" />
-<img align="left" alt="GCP" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
+<img align="left" alt="AWS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/amazonaws.svg" />
 
 <br />
 <br />
