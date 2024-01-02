@@ -1,9 +1,9 @@
 ## Hello there, my name is Clément 🤗
 
-### I'm an French Software Engineer. I graduated two years ago from CentraleSupélec, Paris (Major in IT Architecture) and I work in a govtech startup.
+### I'm an French Software Engineer. I graduated from CentraleSupélec, Paris (Major in IT Architecture) and I work in a govtech startup.
 
 - 🌱 I’m currently learning Remix and game dev.
-- 🏆 End of 2023 Goals: continue developing my Go game and release an alpha version.
+- 🏆 2024 Goals: become a master in software architecture and release an alpha version of my game.
 - 🎥 I also love shooting and producing video content for my friends and family. Check out the [students union][hyris] I was in!
 
 ### Find me on social networks:
@@ -49,7 +49,6 @@
 <img align="left" alt="Languages Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Clemsazert&layout=compact" />
 
 <br />
-
 
 [hyris]: http://hyris.tv
 [instagram]: https://www.instagram.com/gifrlockdown
